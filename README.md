@@ -3,7 +3,7 @@
 ### A passionate Backend Developer
 
 - 🔭 I'm currently working on **AI projects**
-- 🌱 I’m currently seeking 4-6 months Internship
+- 🌱 I’m currently seeking **4-6 months Internship**
 - 📫 How to reach me **Eddamssirirachid@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
