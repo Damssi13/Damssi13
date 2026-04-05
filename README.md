@@ -1,6 +1,6 @@
 # Hi There👋, I'm Rachid Eddamssiri
 
-### A passionate Backend Developer
+### A passionate Software engineer
 
 - 🔭 I'm currently working on **AI projects**
 - 🌱 I’m currently seeking **4-6 months Internship**
